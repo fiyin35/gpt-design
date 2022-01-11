@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <div className="gpt3__header section_padding" id="home">
       <div className="gpt3__header-content"> 
-        <h1 className="gradient__text">
+        <h1 className="gradient__text" style={{color: "#a64deb"}}>
            Let’s Build Something 
            amazing with GPT-3 OpenAI
          </h1>
