@@ -1,6 +1,6 @@
 import React from 'react';
 import './footer.css';
-import gpt3logo from '../../assets/logo.png'
+import gpt3logo from '../../assets/logo.svg'
 
 const Footer = () => {
   return (
@@ -40,7 +40,12 @@ const Footer = () => {
               <p>085-132567</p>
               <p>info@payme.net</p>
           </div>
+
         </div>
+
+        <div className="gpt3__footer-links_copyright">
+            <p>© 2021 GPT-3. All rights reserved.</p>
+          </div>
     </div>
   )
 }
