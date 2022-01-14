@@ -44,7 +44,7 @@ const Footer = () => {
         </div>
 
         <div className="gpt3__footer-links_copyright">
-            <p>© 2021 GPT-3. All rights reserved.</p>
+            <p>© 2022 GPT-3. All rights reserved. | Built by Fiyin</p>
           </div>
     </div>
   )
